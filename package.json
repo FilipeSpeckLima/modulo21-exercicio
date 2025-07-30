@@ -1,0 +1,23 @@
+{
+  "name": "modulo20-exercicio",
+  "version": "1.0.0",
+  "main": "indiceMaiorMenor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FilipeSpeckLima/modulo20-exercicio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FilipeSpeckLima/modulo20-exercicio/issues"
+  },
+  "homepage": "https://github.com/FilipeSpeckLima/modulo20-exercicio#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
+}
